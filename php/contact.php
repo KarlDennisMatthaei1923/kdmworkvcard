@@ -1,4 +1,4 @@
-<?php
+<?php  
 
 if ($_POST) {
     $to_Email = "mail@mail.com"; //Replace with recipient email address
